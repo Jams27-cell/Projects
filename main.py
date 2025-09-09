@@ -223,7 +223,7 @@ def main():
     """Main function to start the voice assistant"""
     print("""
     ╔════════════════════════════════════╗
-    ║   🤖 AI VOICE ASSISTANT 🤖         ║
+    ║    AI VOICE ASSISTANT              ║
     ║   Simple & Expandable              ║
     ╚════════════════════════════════════╝
     """)
@@ -241,3 +241,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
