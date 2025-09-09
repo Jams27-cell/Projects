@@ -1,7 +1,7 @@
 """
 Simple AI Voice Assistant
 A beginner-friendly voice assistant that listens to commands and responds with voice output.
-Author: Your Name
+Author: James
 Date: 2025
 """
 
@@ -239,4 +239,5 @@ def main():
         print("\n👋 Thanks for using the Voice Assistant!")
 
 if __name__ == "__main__":
+
     main()
